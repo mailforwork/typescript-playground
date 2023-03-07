@@ -1,0 +1,24 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "ok so I am finally learning ts here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailforwork/typescript-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mailforwork/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/mailforwork/typescript-playground#readme",
+  "devDependencies": {
+    "tsc-watch": "^6.0.0",
+    "typescript": "^4.9.5"
+  }
+}
